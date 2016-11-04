@@ -1,0 +1,80 @@
+<nav>
+<ul>
+<li><a href="#">Account</a>
+	<ul>
+		<li><a href="changeID.php">Change ID</a></li>
+		
+	
+		<li><a href="changePWD.php">Change Password</a></li>
+		
+		
+		
+		<li><a href="logout/logout.php">Logout</a></li>
+		
+	</ul>
+
+
+
+</li>
+
+<li><a href="#">Report</a>
+	<ul>
+		<li><a href="attendance_print_report.php">Attendance</a></li>
+		
+	</ul>
+</li>
+<li><a href="#">Subject</a>
+	<ul>
+		<li><a href="subject_register.php">Registration</a></li>
+		<li><a href="editSubject.php">Edit</a></li>
+		
+	</ul>
+</li>
+<li><a href="#">Student</a>
+	<ul>
+		<li><a href="student_register.php">Registration</a></li>
+		<li><a href="student_view.php">View</a></li>
+		<li><a href="promote.php">Promote</a></li>
+		<li><a href="detain.php">Detain</a></li>
+		<li><a href="undetain.php">UnDetain</a></li>
+		
+	</ul>
+</li>
+<li><a href="#">Faculty</a>
+	<ul>
+		<li><a href="fac_register.php">Registration</a></li>
+			<li><a href="fac_view.php">View</a></li>
+		<li><a href="sub_allocate.php">Subject Allocation</a></li>  
+		<li><a href="edit_alloc.php">Change Allocation</a></li>
+		<li><a href="class_report.php">Class Detail</a></li>
+		<li><a href="fac_subdetails.php">Subject Detail</a></li>
+		<li><a href="resetPWD.php">Reset Password</a></li>
+							
+	
+	</ul>
+</li>
+
+<li><a href="#">Attendance</a>
+	<ul>
+		<li><a href="add_attendance.php">Add Attendance</a></li>
+		<li><a href="edit_attandance.php">Edit Attendance</a></li>
+		<li><a href="#">View</a>
+			<ul><li>
+			<a href="view.php">View Daily Attendance</a></li>
+		<li><a href="view_monthly.php">View Monthly Attendance</a>
+		</li></ul></li>
+		
+	</ul>
+</li>
+<li><a href="#">Time Table</a>
+	<ul>
+		<li><a href="add_timetable.php">Registration</a></li>
+		<li><a href="edit_timetable.php">Modify</a></li>
+		<li><a href="view_timetable.php">View</a></li>				
+	
+	</ul>
+</li>
+<li><a href="index.php">Home</a></li>
+
+</ul>
+</nav>

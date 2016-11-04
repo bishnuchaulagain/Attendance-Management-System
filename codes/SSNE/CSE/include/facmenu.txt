@@ -1,0 +1,35 @@
+<nav>
+<ul>
+
+
+<li><a href="#">Account</a>
+	<ul>
+		
+		<li><a href="changePWD.php">Change Password</a></li>
+		<li><a href="logout/logout.php">Logout</a></li>
+		
+	</ul>
+
+
+
+</li>
+
+
+<li><a href="#">Attendance</a>
+	<ul>
+		<li><a href="add_attendance.php">Add Attendance</a></li>
+		
+	</ul>
+</li>
+
+<li><a href="#">Time Table</a>
+	<ul>
+		<li><a href="view_timetable.php">View</a></li>
+		
+	</ul>
+</li>
+
+<li><a href="index.php">Home</a></li>
+
+</ul>
+</nav>
